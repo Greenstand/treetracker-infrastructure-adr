@@ -1,0 +1,34 @@
+{
+    "devices": [
+        {
+            "androidRelease": "9",
+            "androidSdkVersion": 28,
+            "app_build": 129,
+            "app_version": "1.4.2",
+            "brand": "HUAWEI",
+            "device": "HWJKM-H",
+            "device_identifier": "b994a070c0b09b80",
+            "hardware": "kirin710",
+            "instanceId": "dbyHiKQSQUaIJSTPMwi-bh",
+            "manufacturer": "HUAWEI",
+            "model": "JKM-LX3",
+            "serial": "unknown"
+        }
+    ],
+    "registrations": [
+        {
+            "device_identifier": "b994a070c0b09b80",
+            "email": null,
+            "first_name": "G",
+            "image_url": "https://treetracker-test-images.s3.eu-central-1.amazonaws.com/2021.05.05.17.30.58_37.84481550803357_-122.25722830534376_fe061d0c-7912-402c-a8b3-bc8cc677e229_IMG_20210127_152031_2061776106836885603.jpg",
+            "last_name": "Gg",
+            "lat": 37.84481550803357,
+            "lon": -122.25722830534376,
+            "organization": "",
+            "phone": null,
+            "planter_identifier": "6666666666",
+            "record_uuid": "$REGISTRATION_UUID_VALUE"
+        }
+    ],
+    "trees": null
+}

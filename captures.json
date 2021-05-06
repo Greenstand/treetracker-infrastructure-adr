@@ -1,0 +1,53 @@
+{
+    "devices": [
+        {
+            "androidRelease": "9",
+            "androidSdkVersion": 28,
+            "app_build": 129,
+            "app_version": "1.4.2",
+            "brand": "HUAWEI",
+            "device": "HWJKM-H",
+            "device_identifier": "b994a070c0b09b80",
+            "hardware": "kirin710",
+            "instanceId": "dbyHiKQSQUaIJSTPMwi-bh",
+            "manufacturer": "HUAWEI",
+            "model": "JKM-LX3",
+            "serial": "unknown"
+        }
+    ],
+    "registrations": null,
+    "trees": [
+        {
+            "attributes": [
+                {
+                    "key": "dbh",
+                    "value": ""
+                },
+                {
+                    "key": "abs_step_count",
+                    "value": "0"
+                },
+                {
+                    "key": "delta_step_count",
+                    "value": "1"
+                },
+                {
+                    "key": "rotation_matrix",
+                    "value": "0.9326816,0.18019727,-0.31246388,0.0,-0.3568026,0.5879171,-0.7259779,0.0,0.052883103,0.78859425,0.6126345,0.0,0.0,0.0,0.0,1.0"
+                }
+            ],
+            "device_identifier": "b994a070c0b09b80",
+            "gps_accuracy": 0,
+            "image_url": "https://treetracker-test-images.s3.eu-central-1.amazonaws.com/2021.05.05.17.31.03_37.84484365830691_-122.25713796559505_2cd513d3-4e13-42a7-9534-11d5738ec393_IMG_20210505_173041_1197133570434210061.jpg",
+            "lat": 37.84484365830691,
+            "lon": -122.25713796559505,
+            "note": "",
+            "planter_identifier": "3132687669",
+            "planter_photo_url": "https://treetracker-test-images.s3.eu-central-1.amazonaws.com/2021.05.05.17.31.01_37.84484365830691_-122.25713796559505_3bda799d-4016-48c0-b48b-d50ac61147da_IMG_20210505_173028_4360056516996564885.jpg",
+            "sequence_id": 7,
+            "timestamp": 1620261055,
+            "user_id": 10,
+            "uuid": "$CAPTURE_UUID_VALUE"
+        }
+    ]
+}
