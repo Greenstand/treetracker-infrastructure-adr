@@ -27,7 +27,7 @@
             "organization": "",
             "phone": null,
             "planter_identifier": "6666666666",
-            "record_uuid": "$REGISTRATION_UUID_VALUE"
+            "record_uuid": "REGISTRATION_UUID_VALUE"
         }
     ],
     "trees": null

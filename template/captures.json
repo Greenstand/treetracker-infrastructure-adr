@@ -47,7 +47,7 @@
             "sequence_id": 7,
             "timestamp": 1620261055,
             "user_id": 10,
-            "uuid": "$CAPTURE_UUID_VALUE"
+            "uuid": "CAPTURE_UUID_VALUE"
         }
     ]
 }
