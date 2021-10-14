@@ -1,7 +1,0 @@
-# Testing too to insert data into data pipeline
-
-Configure your aws credentials using
-```aws configure --profile treetracker-test-env ```
-
-Call the script using
-```./upload.sh```
