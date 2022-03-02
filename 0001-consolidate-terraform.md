@@ -1,4 +1,4 @@
-# [short title of solved problem and solution]
+# Consolidate Terraform
 
 * Status: proposed
 * Deciders: @ZavenArra, Peter Willis, Tuan-Ahn Nguyen, MattK
