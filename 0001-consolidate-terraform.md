@@ -4,7 +4,7 @@
 * Deciders: @ZavenArra, Peter Willis, Tuan-Ahn Nguyen, MattK
 * Date: 2022-03-01 
 
-Technical Story: Where shoud our terraform code be located? 
+Technical Story: Where should our terraform code be located? 
 
 ## Context and Problem Statement
 
