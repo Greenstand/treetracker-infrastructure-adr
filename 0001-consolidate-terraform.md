@@ -20,7 +20,7 @@ Current terraform is spread through the treetracker-infrastructure repository.  
 ## Considered Options
 
 1. Create a repository just for terraform and related utility scripts
-2. Organize treetracker-infrastructure in subfolders: terraform, application platform, utilitis
+2. Organize treetracker-infrastructure in subfolders: terraform, application platform, utilities
 
 ## Decision Outcome
 
